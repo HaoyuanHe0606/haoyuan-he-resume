@@ -10,35 +10,24 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "#contact"
-  - icon: twitter
+    link: haoyuanh@princeton.edu
+  - icon: linkedin
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://www.linkedin.com/in/haoyuan-h-98b587134/
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/HaoyuanHe0606
 organizations:
-  - name: Stanford University
+  - name: Princeton University
     url: ""
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: BSE in Computer Science
+      institution: Princeton University
+      year: 2023
+email: haoyuanh@princeton.edu
 superuser: true
 authors:
   - admin
-user_groups:
-  - Researchers
-  - Visitors
+user_groups: []
 ---
